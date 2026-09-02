@@ -24,8 +24,23 @@ body {
     display: flex;
     flex-direction: column;
     min-width: 100vh;
+    background-color: #f5f3f3;
 }
 
 main {
     flex: 1;
+}
+
+.cabecalho-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    color: #fff;
+}
+
+footer {
+    background-color: #fff;
+    padding: 15px 25px;
 }
