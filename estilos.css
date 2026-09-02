@@ -8,14 +8,13 @@
 }
 
 .cartao {
-    width: 260px;
-    height: 200px;
+    width: 130px;
+    height: 100px;
 }
 
-.cartao-frente, .cartao-verso {
+.cartao-imagem {
     width: 100%;
 }
-
 
 
 
