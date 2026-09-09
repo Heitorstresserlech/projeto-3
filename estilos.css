@@ -35,19 +35,19 @@ main {
 }
 
 .cabecalho-link {
-    color: #fff;
+    color: #f5eeee;
     text-decoration: none;
 }
 
 h1 {
-    color: #fff;
+    color: #fffbfb;
     font-size: 24px;
 }
 
 footer {
-    background-color: #fff;
+    background-color: #f7f5f5;
     padding: 15px 25px;
-    color: #fff;
+    color: #f8f6f6;
 }
 
 .cartao-interno {
